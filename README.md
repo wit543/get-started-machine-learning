@@ -18,6 +18,7 @@ Name                                | Interface                                 
 ### Video tutorial
  - Intro
   - [DeepLearning.TV](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
+  - [Sirajology](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
   - [Bay Area Deep Learning School](https://www.youtube.com/playlist?list=PLrE1razUE9q151v_k-HnidYbPV45T8JCv)
   - [Nvidia](https://www.youtube.com/watch?v=yjhj7bAj9hs&list=PLZHnYvH1qtOYVT0NU20-H2duPe6_64tFm)
  - Advance
