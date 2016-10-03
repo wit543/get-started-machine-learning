@@ -5,7 +5,7 @@ Introduction for biginner who want to study about machine learning.
 ## Deep learning
 A basic guid for starting on Deep learning.
 
-Framework/libary
+### Framework/libary
 
 Name                                | Interface                                         | Platform            | feature
 ------------------------------------|---------------------------------------------------|---------------------|------------
@@ -15,7 +15,20 @@ Name                                | Interface                                 
 [Torch][Torch-website] | C, [C++][C++-website], [Lua][Lua-website] | [Ubuntu][Ubuntu-website], [OS X][OS X-website], [Windows][Windows-website], [Android][Android-website], [iOS][iOS-website]
 [ConvNetJS][ConvNetJS-website] | [Java Script][Java Script-website] | website |
 
+### Video tutorial
+ - Intro
+  - [DeepLearning.TV](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
+  - [Bay Area Deep Learning School](https://www.youtube.com/playlist?list=PLrE1razUE9q151v_k-HnidYbPV45T8JCv)
+  - [Nvidia](https://www.youtube.com/watch?v=yjhj7bAj9hs&list=PLZHnYvH1qtOYVT0NU20-H2duPe6_64tFm)
+ - Advance
+  - [c231-2016](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+  
+### Online course
 
+  - [Coursera](https://www.coursera.org/courses?query=deep%20learning)
+  - [Udacity](https://www.udacity.com/course/deep-learning--ud730)
+  - [Stanford - c231](http://cs231n.github.io/)
+  
 [C-website]
 [C++-website]:http://www.cplusplus.com/ 
 [Lua-website]:https://www.lua.org/
