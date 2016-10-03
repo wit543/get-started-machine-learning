@@ -22,6 +22,7 @@ Name                                | Interface                                 
   - [Nvidia](https://www.youtube.com/watch?v=yjhj7bAj9hs&list=PLZHnYvH1qtOYVT0NU20-H2duPe6_64tFm)
  - Advance
   - [c231-2016](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+  - [Deep learning at Oxford](https://www.youtube.com/watch?v=dV80NAlEins&list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
   
 ### Online course
 
