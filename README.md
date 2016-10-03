@@ -29,12 +29,23 @@ Name                                | Interface                                 
   - [Udacity](https://www.udacity.com/course/deep-learning--ud730)
   - [Stanford - cs231: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
    - [github page](http://cs231n.github.io/)
-   - [video]([c231-2016](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA))
+   - [video](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
   - [Berkeley - cs294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
   - [Berkeley - stat212b: Topics Course on Deep Learning for Spring 2016](https://github.com/joanbruna/stat212b)
   - [Stanford - cs224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
    - [video](https://www.youtube.com/watch?v=Qy0oEkCZkBI&list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
+  - [Stanfor - cs229:Machine Learning](http://cs229.stanford.edu/)
   
+### Interested People
+ - [Andrej Karpathy](http://cs.stanford.edu/people/karpathy/)
+ - [Andrew Ng](http://www.andrewng.org/)
+ - []
+
+### Playground
+ - [OpenAi Gym](https://gym.openai.com/)
+ - [ConvNet](http://cs.stanford.edu/people/karpathy/convnetjs/)
+ - [Tensorflow Playground](playground.tensorflow.org/)
+
 [C-website]
 [C++-website]:http://www.cplusplus.com/ 
 [Lua-website]:https://www.lua.org/
