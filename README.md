@@ -1,9 +1,9 @@
 # get-started-machine-learning
 
-Introduction for biginner who want to study about machine learning.
+Introduction for beginner who want to study about machine learning.
 
 ## Deep learning
-A basic guid for starting on Deep learning.
+A basic guide for starting on Deep learning.
 
 ### Framework/libary
 
