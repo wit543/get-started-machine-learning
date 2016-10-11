@@ -18,6 +18,7 @@ Name                                | Interface                                 
 ### Video tutorial
  - Intro
   - [DeepLearning.TV](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
+  - [machine learning by google](https://www.youtube.com/watch?v=cSKfRcEDGUs&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal&index=2)
   - [Sirajology](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
   - [Bay Area Deep Learning School](https://www.youtube.com/playlist?list=PLrE1razUE9q151v_k-HnidYbPV45T8JCv)
   - [Nvidia](https://www.youtube.com/watch?v=yjhj7bAj9hs&list=PLZHnYvH1qtOYVT0NU20-H2duPe6_64tFm)
@@ -28,6 +29,7 @@ Name                                | Interface                                 
 ### Online course
 
   - [Coursera](https://www.coursera.org/courses?query=deep%20learning)
+  - [Tensorflow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..%2Findex#0)
   - [Udacity](https://www.udacity.com/course/deep-learning--ud730)
   - [Stanford - cs231: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
    - [github page](http://cs231n.github.io/)
