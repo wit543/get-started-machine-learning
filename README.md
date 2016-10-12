@@ -32,13 +32,14 @@ Name                                | Interface                                 
   - [Tensorflow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..%2Findex#0)
   - [Udacity](https://www.udacity.com/course/deep-learning--ud730)
   - [Stanford - cs231: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-   - [github page](http://cs231n.github.io/)
-   - [video](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+  - [github page](http://cs231n.github.io/)
+  - [video](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
   - [Berkeley - cs294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
   - [Berkeley - stat212b: Topics Course on Deep Learning for Spring 2016](https://github.com/joanbruna/stat212b)
   - [Stanford - cs224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
-   - [video](https://www.youtube.com/watch?v=Qy0oEkCZkBI&list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
+  - [video](https://www.youtube.com/watch?v=Qy0oEkCZkBI&list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
   - [Stanfor - cs229:Machine Learning](http://cs229.stanford.edu/)
+  - [MIT - 6.034: Artificial Intelligence (2010&2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
   
 ### Interested People
  - [Andrej Karpathy](http://cs.stanford.edu/people/karpathy/)
