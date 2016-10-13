@@ -42,7 +42,7 @@ Name                                | Interface                                 
   - [MIT - 6.034: Artificial Intelligence (2010&2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
   
 ### Interested People
- - [Andrej Karpathy](http://cs.stanford.edu/people/karpathy/)
+ - [Andrej Karpathy](http://cs.stanford.edu/people/karpathy/) [![Twitter-icon]][Twitter-Andrej Karpathy]
  - [Andrew Ng](http://www.andrewng.org/)
  - []
 
@@ -72,3 +72,7 @@ Name                                | Interface                                 
 [OS X-website]:http://www.apple.com/macos/sierra/
 [Android-website]:https://developer.android.com/index.html
 [Windows-website]:https://www.microsoft.com/en-us/windows/
+
+[Twitter-icon]: https://g.twimg.com/dev/documentation/image/Twitter_logo_blue_16.png
+[Twitter-Andrej Karpathy]: https://twitter.com/karpathy
+
