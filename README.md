@@ -31,7 +31,7 @@ Name                                | Interface                                 
   - [Coursera](https://www.coursera.org/courses?query=deep%20learning)
   - [Tensorflow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..%2Findex#0)
   - [Udacity](https://www.udacity.com/course/deep-learning--ud730)
-  - [Stanford - cs231: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+  - [Stanford - cs231: Convolutional Neural Networks for Visual Recognition (Update: Winter 2016)](http://cs231n.stanford.edu/)
   - [github page](http://cs231n.github.io/)
   - [video](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
   - [Berkeley - cs294: Deep Reinforcement Learning (Update: String 2017)](http://rll.berkeley.edu/deeprlcourse/)
