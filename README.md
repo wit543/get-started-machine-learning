@@ -50,7 +50,9 @@ Name                                | Interface                                 
  - [OpenAi Gym](https://gym.openai.com/)
  - [ConvNet](http://cs.stanford.edu/people/karpathy/convnetjs/)
  - [Tensorflow Playground](playground.tensorflow.org/)
-
+### Higher-level API for TensorFlow
+ - [tflearn](http://tflearn.org/)
+ 
 [C-website]
 [C++-website]:http://www.cplusplus.com/ 
 [Lua-website]:https://www.lua.org/
